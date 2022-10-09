@@ -34,6 +34,8 @@ WHEN I search for a city --> THEN I am presented with current and future conditi
 
 ## Live URL: 
 
+https://collzbaba.github.io/Weather-App/
+
 ## Github Repo:
 
 https://github.com/Collzbaba/Weather-App
