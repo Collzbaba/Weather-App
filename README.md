@@ -32,6 +32,8 @@ WHEN I search for a city --> THEN I am presented with current and future conditi
 
 ## Screenshots:
 
+![screenshots](./assets/images/weather-app-screenshot.png)
+
 ## Live URL: 
 
 https://collzbaba.github.io/Weather-App/
