@@ -5,12 +5,12 @@ The User Story states that, as a traveler, i want to see the weather outlook for
 
 ## Table of Contents: 
 
-Description
-Usage 
-Technologies 
-Screenshots
-live URL 
-Resources
+1. Description
+2. Usage 
+3. Technologies 
+4. Screenshots
+5. live URL 
+6. Resources
 
 ## Description: 
 
@@ -22,13 +22,13 @@ WHEN I search for a city --> THEN I am presented with current and future conditi
 
 ## Technologies: 
 
-Html
-Css 
-Bootstrap Interaction 
-JavaScipt 
-JQuery 
-Moment.js 
-OpenWeather API.
+1. Html
+2. Css 
+3. Bootstrap Interaction 
+4. JavaScipt 
+5. JQuery 
+6. Moment.js 
+7. OpenWeather API.
 
 ## Screenshots:
 
@@ -36,8 +36,10 @@ OpenWeather API.
 
 ## Github Repo:
 
+https://github.com/Collzbaba/Weather-App
+
 ## Resources:
 
-OpenWeather API
-Youtube Tutorial How to use openweather API 
-Google.
+1. OpenWeather API
+2. Youtube Tutorial How to use openweather API 
+3. Google.
